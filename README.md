@@ -1,4 +1,4 @@
-# Manhattan For Rent
+# Manhattan for Rent
 
 This repository collects and makes available the tables that make up the appendix of _Manhattan for Rent_, by Elizabeth Blackmar (Ithaca, NY: Cornell University Press, 1989).
 The data is collected from public sources from the nineteenth century, and here we provide digital versions of the data for use in future projects, digital or otherwise.
